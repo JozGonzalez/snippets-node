@@ -12,10 +12,10 @@
   },
   "devDependencies": {
     "@types/node": "^13.9.8",
-    "eslint": "^5.15.3",
+    "eslint": "^6.0.0",
     "eslint-config-google": "^0.12.0",
-    "firebase-tools": "^9.21.0",
-    "lerna": "^3.13.1",
+    "firebase-tools": "^11.30.0",
+    "lerna": "^7.0.0",
     "typescript": "^3.8.3"
   }
 }
