@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@types/mocha": "^7.0.2",
-    "firebase-tools": "^11.21.0",
+    "firebase-tools": "^13.0.0",
     "mocha": "^10.1.0"
   }
 }
